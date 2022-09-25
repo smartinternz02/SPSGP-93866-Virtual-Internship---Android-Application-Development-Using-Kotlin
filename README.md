@@ -18,7 +18,7 @@ Grocery app
 
 I added my project report here
 
-https://docs.google.com/document/d/1r1MSTR64Y7mcJyO1-0sltvf6USpEmqOf/edit?usp=sharing&ouid=115725895737617753831&rtpof=true&sd=true
+
 
 
 Here is video demo project

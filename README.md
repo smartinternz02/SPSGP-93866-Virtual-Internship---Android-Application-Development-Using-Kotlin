@@ -14,3 +14,13 @@ Grocery app
 ## 3) Deletion of Item
 
 <img width="230" alt="image" src="https://user-images.githubusercontent.com/114281444/192088549-903a7c80-e1d7-4e9f-b2f3-d023fb80c3c5.jpeg">
+
+
+I added my project report here
+
+https://docs.google.com/document/d/1r1MSTR64Y7mcJyO1-0sltvf6USpEmqOf/edit?usp=sharing&ouid=115725895737617753831&rtpof=true&sd=true
+
+
+Here is video demo project
+
+https://drive.google.com/file/d/1AVKf8l1-HC0u9TKy0u43bUIi3th0QLDu/view?usp=sharing
